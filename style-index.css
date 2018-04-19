@@ -1,0 +1,47 @@
+body {
+  background-image: url("http://dip01.u-grenoble3.fr/wordpress/cicm5/wp-content/uploads/sites/14/2015/03/machu-pichu-peru-fotos-fondos-pantalla-inca-landscape-wallpapers-4-1024x575-632x355.jpg");
+  }
+
+.topImage{
+  width: 75%;
+  margin: auto;
+}
+
+h3 {
+  color:white;
+}
+.caja {
+font-family: sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: #ffffff;
+background:#ee0467
+}
+
+#push {
+	margin: 5em;
+	background-color: #4CAF50;
+	color: white;
+	box-shadow: inset 2px 2px 5px rgba(0,0,0,0.5), inset -2px -2px 5px rgba(255,255,255,0.5);
+	text-shadow: 1px 1px 1px black;
+	text-align: center;
+	padding: 1em 1em 1em;
+	border: 20px groove rgba(0,0,0,0.5);
+	visibility: hidden;
+}
+
+#demo {
+	margin: 5em;
+	text-align: center;
+	box-shadow: inset 2px 2px 5px rgba(0,0,0,0.5), inset -2px -2px 5px rgba(255,255,255,0.5);
+	text-shadow: 1px 1px 1px black;
+	background: #B0C4DE;
+	padding: 2em;
+	border: 20px groove rgba(0,0,0,0.5);
+	visibility: hidden;
+}
+
+img {
+	width:300px;
+	height:200px;
+}
